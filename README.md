@@ -6,14 +6,9 @@ To accomplish this, we have used several packages:
 1. asyncio: This package provides an event loop for asynchronous programming. It allows us to write asynchronous code using coroutines and async/await syntax.
 2. playwright: Playwright is a powerful library for automating web browsers. It allows us to navigate to web pages, interact with elements, and extract data using its high-level API.
 3. aiohttp: This package is used to make asynchronous HTTP requests. We use it to call the ZenRows API and fetch the HTML content of the websites we want to scrape.
+4. ZenRows API
 
-We chose Playwright because it provides a user-friendly and efficient way to automate web browsers, making it suitable for web scraping tasks. The combination of asyncio, Playwright, and ZenRows allows us to perform asynchronous operations, enabling concurrent scraping of multiple URLs for improved efficiency.
-
-The csv package simplifies reading and writing data in CSV format, which is a common choice for storing tabular data. By utilizing the csv package, we can handle the input and output of data in a structured and standardized format.
-
-Additionally, the aiohttp package helps us make asynchronous HTTP requests to fetch the HTML content of the websites. We utilize it to retrieve the website content from the ZenRows API asynchronously before passing it to Playwright for further processing.
-
-Here we are using Zenrows, which is used to collect content from any website with a simple call. ZenRows handles rotating proxies, headless browsers and CAPTCHAs for you. ZenRows will bypass any anti-bot or blocking system to help you obtain the info you are looking for.
+ZenRows is a tool that simplifies web scraping by handling challenges such as rotating proxies, headless browsers, and CAPTCHAs. It helps bypass anti-bot systems and blocking measures implemented by websites, allowing us to easily collect content from any website with a simple API call. With ZenRows, we can focus on extracting the desired information without worrying about the technical complexities of scraping and bypassing security measures.
 
 
 ## Installation and Configuration
