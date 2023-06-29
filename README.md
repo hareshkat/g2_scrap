@@ -35,3 +35,5 @@ To install and use this project, please follow the steps below:
    ```
    pip install -r requirements.txt
    ```
+6. Get an API key from ZenRows by creating a free account at https://www.zenrows.com
+7. Use this ZenRows API key in scrap.py file
