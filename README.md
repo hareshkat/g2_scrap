@@ -36,4 +36,13 @@ To install and use this project, please follow the steps below:
    pip install -r requirements.txt
    ```
 6. Get an API key from ZenRows by creating a free account at https://www.zenrows.com
-7. Use this ZenRows API key in scrap.py file
+7. Use this ZenRows API key in the scrap.py file
+
+## Execution
+1. After installing all the dependencies, execute
+   ```
+   python3 scrap.py
+   ```
+2. This will get the URLs from the `g2crowd_urls.csv` file and start scrapping them one by one.
+3. After scrapping each URL, It will create the output files for storing the scrapped data in JSON and CSV format with the file name `scraped_data.json` and `scraped_data.csv`.
+4. You can take reference of the sample files attached in this repository `g2crowd_urls.csv, scraped_data.json, scraped_data.csv`.
