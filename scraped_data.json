@@ -1,0 +1,102 @@
+[
+    {
+        "url": "https://www.g2.com/products/golinks/reviews",
+        "page_title": "GoLinks Reviews 2023: Details, Pricing, & Features | G2",
+        "product_name": "GoLinks",
+        "product_description": "Companies today use upwards of 137 apps. The average employee wastes 19% of the workweek searching for information. Despite efforts to organize resources, nothing has solved the challenge of finding and sharing information fast - Until now!\n\nGoLinks revolutionizes how employees find and share knowledge by transforming any URL into short, memorable, and searchable go links (i.e., go/g2-reviews) and conversational search powered by generative AI. GoLinks GoLinks connects teams more intuitively to the apps and information they access daily. Retire long URLs and share knowledge with memorable keywords in browsers, apps, visually, and in conversation. Context switching has become a thing of the past with human-readable go links that redirect to any web application.",
+        "user_reviews": [
+            {
+                "heading": "Ease of Use",
+                "rating": "9.6"
+            },
+            {
+                "heading": "Quality of Support",
+                "rating": "9.5"
+            },
+            {
+                "heading": "Ease of Setup",
+                "rating": "9.5"
+            }
+        ]
+    },
+    {
+        "url": "https://www.g2.com/products/bl-ink/reviews",
+        "page_title": "BL.INK Reviews 2023: Details, Pricing, & Features | G2",
+        "product_name": "BL.INK",
+        "product_description": "BLINK is an Enterprise Link Management platform. BLINK allows users to create short, branded links and provides analytics to track engagement, attribution, and participation across internal and external campaigns. BLINK manages, monitors, and measures these links to create a safe, secure, and compliant connection between brands and their audiences. BLINK allows brands to create memorable and measurable engagements with every click.\n\nEnterprises need a flexible, scalable, secure platform that emphasizes collaboration, compliance, and creativity to manage and optimize their branded links. Founded in 2008 to serve the unique needs of the enterprise, BL.INK has a proven platform that\u2019s been enthusiastically adopted by the world\u2019s largest, most demanding and most trusted brands.",
+        "user_reviews": [
+            {
+                "heading": "Ease of Use",
+                "rating": "9.2"
+            },
+            {
+                "heading": "Quality of Support",
+                "rating": "9.0"
+            },
+            {
+                "heading": "Ease of Setup",
+                "rating": "9.1"
+            }
+        ]
+    },
+    {
+        "url": "https://www.g2.com/products/bitly/reviews",
+        "page_title": "Bitly Reviews 2023: Details, Pricing, & Features | G2",
+        "product_name": "Bitly",
+        "product_description": "Bitly is a leading global SaaS company offering a comprehensive platform designed to enable every piece of information shared online to connect with key audiences and ignite action. Bitly's all-in-one Connections Platform empowers more than 5.7 million monthly active users and over 500,000 customers globally - people, influencers, brands, and businesses of every size - to use branded links, custom QR codes, and link-in-bio solutions as trusted platform for engaging their audience and delivering critical notifications, information, and experiences. Bitly is proud to be Certified\u2122 by Great Place to Work\u00ae, the global authority on workplace culture and employee experience proven to deliver market-leading revenue, employee retention, and increased innovation.",
+        "user_reviews": [
+            {
+                "heading": "Ease of Use",
+                "rating": "9.3"
+            },
+            {
+                "heading": "Quality of Support",
+                "rating": "8.4"
+            },
+            {
+                "heading": "Ease of Setup",
+                "rating": "9.3"
+            }
+        ]
+    },
+    {
+        "url": "https://www.g2.com/products/t2m-url-shortener/reviews",
+        "page_title": "T2M URL Shortener Reviews 2023: Details, Pricing, & Features | G2",
+        "product_name": "T2M URL Shortener",
+        "product_description": "T2M URL shortener is an all-in-one link management platform. Best custom URL shortener with Branded domain & API. Personalized vanity short links with QR codes & advanced analytics and reports. Dedicated instance option for agencies.",
+        "user_reviews": [
+            {
+                "heading": "Ease of Use",
+                "rating": "9.9"
+            },
+            {
+                "heading": "Quality of Support",
+                "rating": "9.8"
+            },
+            {
+                "heading": "Ease of Setup",
+                "rating": "9.7"
+            }
+        ]
+    },
+    {
+        "url": "https://www.g2.com/products/bitly-pk/reviews",
+        "page_title": "Bitly.Pk Reviews 2023: Details, Pricing, & Features | G2",
+        "product_name": "Bitly.Pk",
+        "product_description": "Best URL Shortener service. Create free unlimited short links for your business. You can create and share branded links with custom domains at bitly.pk",
+        "user_reviews": [
+            {
+                "heading": "Ease of Use",
+                "rating": "10.0"
+            },
+            {
+                "heading": "Quality of Support",
+                "rating": "9.2"
+            },
+            {
+                "heading": "Ease of Setup",
+                "rating": "9.0"
+            }
+        ]
+    }
+]
