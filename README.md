@@ -1,4 +1,4 @@
-# Scrap G2 Crowd site data
+# Scrap G2 Crowd data
 
 Python script to scrap the company’s details from G2 Crowd URLs provided in a CSV file. We aim to extract information from each website using Playwright, an automation tool for web browsers. The scraped data will be stored in new CSV and JSON files.
 
