@@ -22,15 +22,15 @@ To install and use this project, please follow the steps below:
    cd g2_scrap
    ```
 4. Set up and configure the virtual environment in the project directory:
-5. Open your terminal and run the command:
+   - Open your terminal and run the command:
    ```
    python3 -m venv .venv
    ```
-6. Activate the virtual environment by running:
+   - Activate the virtual environment by running:
    ```
    source .venv/bin/activate
    ```
-7. Install the required dependencies by running the command:
+5. Install the required dependencies by running the command:
    ```
    pip install -r requirements.txt
    ```
